@@ -1,4 +1,8 @@
+## Status: FROZEN
 
+ESP v0.1 is frozen. No modification is allowed.
+All future work must be built on top of this version,
+not by modifying it.
 
 **ESP**
 
